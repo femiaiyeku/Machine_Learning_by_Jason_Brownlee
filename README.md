@@ -5,8 +5,4 @@ This repo was created to make the examples of Machine Learning Project in Python
 
 Install the requirements libraries
 
-pip install numpy
-pip install scipy
-pip install matplotlib
-pip install pandas
-pip install sklearn
+pip install numpy scipy matplotlib pandas sklearn
